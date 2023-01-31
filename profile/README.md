@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  StackTribe is 
+  StackTribe is a community for beginners, intermediates and professionals in the web development world to come together to share, learn and grow. 
 </p>
 
 <p align="center">
