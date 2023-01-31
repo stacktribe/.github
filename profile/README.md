@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the <a href="https://stacktribe.com/">StackTribe</a> community!</h1><br>
+<h1 align="center">Welcome to the <a href="https://stacktribe.com/">StackTribe</a> community!</h1>
 
 <p align="center">
   <a href="https://stacktribe.com/">
