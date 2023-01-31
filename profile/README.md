@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://stacktribe.com/">
-    <img src="https://github.com/stacktribe/.github/blob/main/images/StackTribe.png" alt="StackTribe Logo" width="200" height="165">
+    <img src="https://github.com/stacktribe/.github/blob/main/images/StackTribe.jpg" alt="StackTribe Logo" width="200" height="165">
   </a>
 </p>
 
