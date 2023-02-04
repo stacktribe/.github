@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://stacktribe.com">StackTribe</a>
+  <a href="https://facebook.com/stacktribe/">Facebook</a>
   ·
-  <a href="https://stacktribe.com/">StackTribe</a>
+  <a href="https://instagram.com/stacktribe/">Instagram</a>
   ·
-  <a href="https://stacktribe.com/">StackTribe</a>
+  <a href="https://twitter.com/stacktribe/">Twitter</a>
   ·
   <a href="https://blog.stacktribe.com/">Blog</a>
 </p>
