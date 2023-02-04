@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/stacktribe/">Facebook</a>
+  <a href="https://facebook.com/stacktrib/">Facebook</a>
   ·
   <a href="https://instagram.com/stacktribe/">Instagram</a>
   ·
