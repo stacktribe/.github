@@ -17,5 +17,5 @@
   ·
   <a href="https://twitter.com/stacktribe/">Twitter</a>
   ·
-  <a href="https://stacktribe.com/">Home</a>
+  <a href="https://blog.stacktribe.com/">Blog</a>
 </p>
